@@ -20,3 +20,4 @@ RUN pip install --no-cache-dir selenium
 RUN pip install --no-cache-dir robotframework
 RUN pip install --no-cache-dir robotframework-selenium2library
 RUN pip install --no-cache-dir regex
+EXPOSE 5000
